@@ -1,0 +1,13 @@
+py
+- - - 1.Even Lines.py
+- - - 2.Line Numbers.py
+- - - 3.File Manipulator.py
+- - - 4.Directory Traversal.py
+- - - script.py
+txt
+- - - notes23.txt
+- - - notes2.txt
+- - - notes.txt
+- - - output.txt
+- - - result.txt
+- - - text.txt
